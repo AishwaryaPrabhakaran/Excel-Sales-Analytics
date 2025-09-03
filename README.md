@@ -3,9 +3,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report]()_ 
+    **1.** Create a _[customer performance report](https://github.com/AishwaryaPrabhakaran/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets]()_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/AishwaryaPrabhakaran/Excel-Sales-Analytics/blob/main/Market%20Performance%20Report.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -18,11 +18,11 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]()_ & _[Months]()_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/AishwaryaPrabhakaran/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Year%20Report.pdf)_ & _[Months](https://github.com/AishwaryaPrabhakaran/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Quarter.pdf)_ 
 
-    **2.** Create Profit and Loss (P&L) reports by _[Markets]()_
+    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/AishwaryaPrabhakaran/Excel-Sales-Analytics/blob/main/P%20%26%20L%20By%20Market.pdf)_
 
-    **3.** Create Gross Margin % By Market reports by _[Markets]()_
+    **3.** Create Gross Margin % By Market reports by _[Quarters](https://github.com/AishwaryaPrabhakaran/Excel-Sales-Analytics/blob/main/GM%25%20By%20Quarters.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
